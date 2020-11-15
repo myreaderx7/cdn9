@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<title>HostingNinja.com - Everything Web Hosting in 2020 &amp; More!</title>
+<!-- This site is running CAOS for Wordpress -->
+
+
+<meta name="description" content="I&#039;ve gone and tested over 40+ web hosting companies using real live data. No fake reviews, just real data driven results from existing websites."/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://hostingninja.com" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="HostingNinja.com - Everything Web Hosting in 2020 &amp; More!" />
+<meta property="og:description" content="I&#039;ve gone and tested over 40+ web hosting companies using real live data. No fake reviews, just real data driven results from existing websites." />
+<meta property="og:url" content="https://hostingninja.com" />
+<meta property="og:site_name" content="Hosting Ninja" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="I&#039;ve gone and tested over 40+ web hosting companies using real live data. No fake reviews, just real data driven results from existing websites." />
+<meta name="twitter:title" content="HostingNinja.com - Everything Web Hosting in 2020 &amp; More!" />
+<meta name="twitter:image" content="https://hostingninja.com/wp-content/uploads/2020/04/undraw_searching_p5ux.svg" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://hostingninja.com/#website","url":"https://hostingninja.com/","name":"Hosting Ninja","potentialAction":{"@type":"SearchAction","target":"https://hostingninja.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://hostingninja.com/#primaryimage","url":"https://hostingninja.com/wp-content/uploads/2020/04/undraw_searching_p5ux.svg"},{"@type":"WebPage","@id":"https://hostingninja.com/#webpage","url":"https://hostingninja.com/","inLanguage":"en-US","name":"HostingNinja.com - Everything Web Hosting in 2020 &amp; More!","isPartOf":{"@id":"https://hostingninja.com/#website"},"primaryImageOfPage":{"@id":"https://hostingninja.com/#primaryimage"},"datePublished":"2020-04-23T14:13:56+00:00","dateModified":"2020-11-14T22:07:36+00:00","description":"I've gone and tested over 40+ web hosting companies using real live data. No fake reviews, just real data driven results from existing websites."}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//polyfill.io' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+<link rel='preconnect' href='//www.google-analytics.com' />
+<link rel="alternate" type="application/rss+xml" title="Hosting Ninja &raquo; Feed" href="https://hostingninja.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Hosting Ninja &raquo; Comments Feed" href="https://hostingninja.com/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/hostingninja.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='astra-theme-css-css'  href='https://hostingninja.com/wp-content/themes/astra/assets/css/minified/style.min.css?ver=2.4.3' media='all' />
+<style id='astra-theme-css-inline-css'>
+html{font-size:93.75%;}a,.page-title{color:#8687f1;}a:hover,a:focus{color:#3a3a3a;}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-weight:inherit;font-size:15px;font-size:1rem;}blockquote{color:#000000;}.site-title{font-size:35px;font-size:2.3333333333333rem;}.ast-archive-description .ast-archive-title{font-size:40px;font-size:2.6666666666667rem;}.site-header .site-description{font-size:15px;font-size:1rem;}.entry-title{font-size:40px;font-size:2.6666666666667rem;}.comment-reply-title{font-size:24px;font-size:1.6rem;}.ast-comment-list #cancel-comment-reply-link{font-size:15px;font-size:1rem;}h1,.entry-content h1{font-size:40px;font-size:2.6666666666667rem;}h2,.entry-content h2{font-size:30px;font-size:2rem;}h3,.entry-content h3{font-size:25px;font-size:1.6666666666667rem;}h4,.entry-content h4{font-size:20px;font-size:1.3333333333333rem;}h5,.entry-content h5{font-size:18px;font-size:1.2rem;}h6,.entry-content h6{font-size:15px;font-size:1rem;}.ast-single-post .entry-title,.page-title{font-size:30px;font-size:2rem;}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:15px;font-size:1rem;}::selection{background-color:#8687f1;color:#000000;}body,h1,.entry-title a,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.wc-block-grid__product-title{color:#3a3a3a;}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#000000;border-color:#8687f1;background-color:#8687f1;}.main-header-menu a,.ast-header-custom-item a{color:#3a3a3a;}.main-header-menu li:hover > a,.main-header-menu li:hover > .ast-menu-toggle,.main-header-menu .ast-masthead-custom-menu-items a:hover,.main-header-menu li.focus > a,.main-header-menu li.focus > .ast-menu-toggle,.main-header-menu .current-menu-item > a,.main-header-menu .current-menu-ancestor > a,.main-header-menu .current_page_item > a,.main-header-menu .current-menu-item > .ast-menu-toggle,.main-header-menu .current-menu-ancestor > .ast-menu-toggle,.main-header-menu .current_page_item > .ast-menu-toggle{color:#8687f1;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:#8687f1;}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:#8687f1;background-color:#8687f1;box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:#8687f1;border-color:#8687f1;}.footer-adv .footer-adv-overlay{border-top-style:solid;border-top-color:#7a7a7a;}.ast-comment-meta{line-height:1.666666667;font-size:12px;font-size:0.8rem;}.single .nav-links .nav-previous,.single .nav-links .nav-next,.single .ast-author-details .author-title,.ast-comment-meta{color:#8687f1;}.entry-meta,.entry-meta *{line-height:1.45;color:#8687f1;}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *{color:#3a3a3a;}.ast-404-layout-1 .ast-404-text{font-size:200px;font-size:13.333333333333rem;}.widget-title{font-size:21px;font-size:1.4rem;color:#3a3a3a;}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:#8687f1;}.secondary .calendar_wrap #today,.ast-progress-val span{background:#8687f1;}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:#8687f1;border-color:#8687f1;}.calendar_wrap #today > a{color:#000000;}.ast-pagination a,.page-links .page-link,.single .post-navigation a{color:#8687f1;}.ast-pagination a:hover,.ast-pagination a:focus,.ast-pagination > span:hover:not(.dots),.ast-pagination > span.current,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:#3a3a3a;}.ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle{background:transparent;color:#1be390;}.ast-header-break-point .ast-mobile-menu-buttons-outline.menu-toggle{background:transparent;border:1px solid #1be390;color:#1be390;}.ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle{background:#1be390;color:#ffffff;}@media (max-width:921px){#secondary.secondary{padding-top:0;}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 2.14em;}.ast-separate-container #primary,.ast-separate-container #secondary{padding:1.5em 0;}.ast-separate-container.ast-right-sidebar #secondary{padding-left:1em;padding-right:1em;}.ast-separate-container.ast-two-container #secondary{padding-left:0;padding-right:0;}.ast-page-builder-template .entry-header #secondary{margin-top:1.5em;}.ast-page-builder-template #secondary{margin-top:1.5em;}#primary,#secondary{padding:1.5em 0;margin:0;}.ast-left-sidebar #content > .ast-container{display:flex;flex-direction:column-reverse;width:100%;}.ast-author-box img.avatar{margin:20px 0 0 0;}.ast-pagination{padding-top:1.5em;text-align:center;}.ast-pagination .next.page-numbers{display:inherit;float:none;}}@media (max-width:921px){.ast-page-builder-template.ast-left-sidebar #secondary{padding-right:20px;}.ast-page-builder-template.ast-right-sidebar #secondary{padding-left:20px;}.ast-right-sidebar #primary{padding-right:0;}.ast-right-sidebar #secondary{padding-left:0;}.ast-left-sidebar #primary{padding-left:0;}.ast-left-sidebar #secondary{padding-right:0;}.ast-pagination .prev.page-numbers{padding-left:.5em;}.ast-pagination .next.page-numbers{padding-right:.5em;}}@media (min-width:922px){.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary{border:0;}.ast-separate-container.ast-right-sidebar #secondary,.ast-separate-container.ast-left-sidebar #secondary{border:0;margin-left:auto;margin-right:auto;}.ast-separate-container.ast-two-container #secondary .widget:last-child{margin-bottom:0;}.ast-separate-container .ast-comment-list li .comment-respond{padding-left:2.66666em;padding-right:2.66666em;}.ast-author-box{-js-display:flex;display:flex;}.ast-author-bio{flex:1;}.error404.ast-separate-container #primary,.search-no-results.ast-separate-container #primary{margin-bottom:4em;}}@media (min-width:922px){.ast-right-sidebar #primary{border-right:1px solid #eee;}.ast-right-sidebar #secondary{border-left:1px solid #eee;margin-left:-1px;}.ast-left-sidebar #primary{border-left:1px solid #eee;}.ast-left-sidebar #secondary{border-right:1px solid #eee;margin-right:-1px;}.ast-separate-container.ast-two-container.ast-right-sidebar #secondary{padding-left:30px;padding-right:0;}.ast-separate-container.ast-two-container.ast-left-sidebar #secondary{padding-right:30px;padding-left:0;}}.elementor-button-wrapper .elementor-button{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{border-radius:2px;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px;}.elementor-button-wrapper .elementor-button{border-color:#1be390;background-color:#1be390;}.elementor-button-wrapper .elementor-button:hover,.elementor-button-wrapper .elementor-button:focus{color:#ffffff;background-color:#171044;border-color:#171044;}.wp-block-button .wp-block-button__link,.elementor-button-wrapper .elementor-button{color:#ffffff;}.elementor-button-wrapper .elementor-button{font-family:inherit;font-weight:inherit;line-height:1;}.wp-block-button .wp-block-button__link{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;border-color:#1be390;background-color:#1be390;color:#ffffff;font-family:inherit;font-weight:inherit;line-height:1;border-radius:2px;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px;}.wp-block-button .wp-block-button__link:hover,.wp-block-button .wp-block-button__link:focus{color:#ffffff;background-color:#171044;border-color:#171044;}.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;color:#ffffff;border-color:#1be390;background-color:#1be390;border-radius:2px;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px;font-family:inherit;font-weight:inherit;line-height:1;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.button:hover,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:#ffffff;background-color:#171044;border-color:#171044;}@media (min-width:921px){.ast-container{max-width:100%;}}@media (min-width:544px){.ast-container{max-width:100%;}}@media (max-width:544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 1em;}.ast-separate-container #content .ast-container{padding-left:0.54em;padding-right:0.54em;}.ast-separate-container #secondary{padding-top:0;}.ast-separate-container.ast-two-container #secondary .widget{margin-bottom:1.5em;padding-left:1em;padding-right:1em;}.ast-separate-container .comments-count-wrapper{padding:1.5em 1em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 1em;margin-bottom:1.5em;}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em;}.ast-separate-container .ast-archive-description{padding:1.5em 1em;}.ast-search-menu-icon.ast-dropdown-active .search-field{width:170px;}}@media (max-width:544px){.ast-comment-list .children{margin-left:0.66666em;}.ast-separate-container .ast-comment-list .bypostauthor li{padding:0 0 0 .5em;}}@media (max-width:921px){.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{display:inline-block;}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin:0;}.ast-comment-avatar-wrap img{max-width:2.5em;}.comments-area{margin-top:1.5em;}.ast-separate-container .comments-count-wrapper{padding:2em 2.14em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 2.14em;}.ast-separate-container .comment-respond{padding:2em 2.14em;}}@media (max-width:921px){.ast-header-break-point .main-header-bar .ast-search-menu-icon.slide-search .search-form{right:0;}.ast-header-break-point .ast-mobile-header-stack .main-header-bar .ast-search-menu-icon.slide-search .search-form{right:-1em;}.ast-comment-avatar-wrap{margin-right:0.5em;}}@media (max-width:544px){.ast-separate-container .comment-respond{padding:1.5em 1em;}}@media (min-width:545px){.ast-page-builder-template .comments-area,.single.ast-page-builder-template .entry-header,.single.ast-page-builder-template .post-navigation{max-width:1240px;margin-left:auto;margin-right:auto;}}@media (max-width:921px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:544px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:921px){html{font-size:85.5%;}}@media (max-width:544px){html{font-size:85.5%;}}@media (min-width:922px){.ast-container{max-width:1240px;}}@font-face {font-family: "Astra";src: url(https://hostingninja.com/wp-content/themes/astra/assets/fonts/astra.woff) format("woff"),url(https://hostingninja.com/wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"),url(https://hostingninja.com/wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");font-weight: normal;font-style: normal;font-display: fallback;}@media (max-width:921px) {.main-header-bar .main-header-bar-navigation{display:none;}}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children,.ast-desktop .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper{border-color:#8687f1;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children{border-top-width:2px;border-right-width:0px;border-left-width:0px;border-bottom-width:0px;border-style:solid;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children .children{top:-2px;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu a,.ast-desktop .main-header-menu.submenu-with-border .children a{border-bottom-width:0px;border-style:solid;border-color:#eaeaea;}@media (min-width:922px){.main-header-menu .sub-menu li.ast-left-align-sub-menu:hover > ul,.main-header-menu .sub-menu li.ast-left-align-sub-menu.focus > ul{margin-left:-0px;}}.ast-small-footer{border-top-style:solid;border-top-width:1px;border-top-color:#7a7a7a;}.ast-small-footer-wrap{text-align:center;}@media (max-width:920px){.ast-404-layout-1 .ast-404-text{font-size:100px;font-size:6.6666666666667rem;}}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"\00bb";}.trail-items li:last-of-type::after{display:none;}.ast-header-break-point .site-header{border-bottom-width:1px;}@media (min-width:922px){.main-header-bar{border-bottom-width:1px;}}.ast-safari-browser-less-than-11 .main-header-menu .menu-item, .ast-safari-browser-less-than-11 .main-header-bar .ast-masthead-custom-menu-items{display:block;}.main-header-menu .menu-item, .main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}.main-header-menu > .menu-item > a{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex;}.ast-primary-menu-disabled .main-header-bar .ast-masthead-custom-menu-items{flex:unset;}
+</style>
+<link rel='stylesheet' id='astra-menu-animation-css'  href='https://hostingninja.com/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=2.4.3' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://hostingninja.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='elementor-icons-css'  href='https://hostingninja.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://hostingninja.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.12' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://hostingninja.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.12' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://hostingninja.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.12' media='all' />
+<link rel='stylesheet' id='elementor-post-14-css'  href='https://hostingninja.com/wp-content/uploads/elementor/css/post-14.css?ver=1604037146' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://hostingninja.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.0.3' media='all' />
+<link rel='stylesheet' id='namogo-icons-css'  href='https://hostingninja.com/wp-content/plugins/elementor-extras/assets/lib/nicons/css/nicons.css?ver=2.2.37' media='all' />
+<link rel='stylesheet' id='elementor-extras-frontend-css'  href='https://hostingninja.com/wp-content/plugins/elementor-extras/assets/css/frontend.min.css?ver=2.2.37' media='all' />
+<link rel='stylesheet' id='elementor-post-9-css'  href='https://hostingninja.com/wp-content/uploads/elementor/css/post-9.css?ver=1605391483' media='all' />
+<link rel='stylesheet' id='elementor-post-362-css'  href='https://hostingninja.com/wp-content/uploads/elementor/css/post-362.css?ver=1604037146' media='all' />
+<link rel='stylesheet' id='elementor-post-165-css'  href='https://hostingninja.com/wp-content/uploads/elementor/css/post-165.css?ver=1605388525' media='all' />
+<link rel='stylesheet' id='site-reviews-css'  href='https://hostingninja.com/wp-content/plugins/site-reviews/assets/styles/default.css?ver=5.1.6' media='all' />
+<style id='site-reviews-inline-css'>
+.gl-star-rating-stars>span,.glsr-star-empty{background-image:url(https://hostingninja.com/wp-content/plugins/site-reviews/assets/images/star-empty.svg)!important}.glsr-field-is-invalid .gl-star-rating-stars>span{background-image:url(https://hostingninja.com/wp-content/plugins/site-reviews/assets/images/star-error.svg)!important}.glsr-star-half{background-image:url(https://hostingninja.com/wp-content/plugins/site-reviews/assets/images/star-half.svg)!important}.gl-star-rating-stars.s10>span:first-child,.gl-star-rating-stars.s20>span:nth-child(-1n+2),.gl-star-rating-stars.s30>span:nth-child(-1n+3),.gl-star-rating-stars.s40>span:nth-child(-1n+4),.gl-star-rating-stars.s50>span:nth-child(-1n+5),.gl-star-rating-stars.s60>span:nth-child(-1n+6),.gl-star-rating-stars.s70>span:nth-child(-1n+7),.gl-star-rating-stars.s80>span:nth-child(-1n+8),.gl-star-rating-stars.s90>span:nth-child(-1n+9),.gl-star-rating-stars.s100>span,.glsr-star-full{background-image:url(https://hostingninja.com/wp-content/plugins/site-reviews/assets/images/star-full.svg)!important}
+</style>
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CQuestrial%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://hostingninja.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://hostingninja.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://hostingninja.com/wp-content/plugins/jetpack/css/jetpack.css?ver=9.0.2' media='all' />
+<!--[if IE]>
+<script src='https://hostingninja.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=2.4.3' id='astra-flexibility-js'></script>
+<script id='astra-flexibility-js-after'>
+flexibility(document.documentElement);
+</script>
+<![endif]-->
+<script src='https://hostingninja.com/wp-content/uploads/caos/analytics.js' id='caos-analytics-js'></script>
+<script id='caos-analytics-js-after'>
+    
+
+
+
+    window.ga = window.ga || function () {(ga.q = ga.q || []).push(arguments);};
+    ga.l = +new Date;
+
+    ga('create', 'UA-167458806-1', {"cookieName":"caosLocalGa","cookieDomain":"hostingninja.com","cookieExpires":2592000,"cookieFlags":"samesite=none;secure"});
+            ga('send', 'pageview');
+                
+</script>
+<script src='https://polyfill.io/v3/polyfill.min.js?version=3.52.1&#038;features=Array.prototype.find%2CCustomEvent%2CElement.prototype.closest%2CElement.prototype.dataset%2CEvent%2CXMLHttpRequest%2CMutationObserver&#038;flags=gated&#038;ver=5.5.3' id='site-reviews/polyfill-js'></script>
+<link rel="https://api.w.org/" href="https://hostingninja.com/wp-json/" /><link rel="alternate" type="application/json" href="https://hostingninja.com/wp-json/wp/v2/pages/9" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://hostingninja.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://hostingninja.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.3" />
+<link rel='shortlink' href='https://hostingninja.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://hostingninja.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhostingninja.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://hostingninja.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhostingninja.com%2F&#038;format=xml" />
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-167458806-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+
+	<meta name="ahrefs-site-verification" content="67e082a5cd7b422ebb019eeeb97637dac308ad706273f7b938dea92f8fa35f0a"><style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://i1.wp.com/hostingninja.com/wp-content/uploads/2020/04/cropped-hostingninja_favicon-1.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i1.wp.com/hostingninja.com/wp-content/uploads/2020/04/cropped-hostingninja_favicon-1.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i1.wp.com/hostingninja.com/wp-content/uploads/2020/04/cropped-hostingninja_favicon-1.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i1.wp.com/hostingninja.com/wp-content/uploads/2020/04/cropped-hostingninja_favicon-1.png?fit=270%2C270&#038;ssl=1" />
+		<style id="wp-custom-css">
+			div#infographic_embed {
+    display: none;
+}
+
+.elementor-column.elementor-col-100.elementor-inner-column div#infographic_embed,.elementor-column.elementor-col-100.elementor-inner-column p.dwn{
+    display: block;
+}
+
+
+p.dwn{
+	display:none;
+}
+
+textarea#embedcode {
+    min-height: 150px;
+    border: 1px solid #d6dbf1;
+    background: #fff;
+    resize: vertical;
+}		</style>
+		</head>
+
+<body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="home page-template page-template-elementor_header_footer page page-id-9 wp-custom-logo ast-desktop ast-page-builder-template ast-no-sidebar astra-2.4.3 ast-header-custom-item-inside ast-single-post ast-inherit-site-logo-transparent elementor-default elementor-template-full-width elementor-kit-14 elementor-page elementor-page-9">
+
+<div 
+	class="hfeed site" id="page">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	
+			<div data-elementor-type="header" data-elementor-id="362" class="elementor elementor-362 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-8262582 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8262582" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2363ed9" data-id="2363ed9" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1cf2f77 elementor-widget elementor-widget-image" data-id="1cf2f77" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://hostingninja.com">
+							<img src="https://hostingninja.com/wp-content/uploads/2020/04/hostingninja_logo_white.svg" class="attachment-full size-full" alt="" loading="lazy" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-42d3acf" data-id="42d3acf" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-37731ad elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="37731ad" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d3cb554" data-id="d3cb554" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6d801d1 elementor-nav-menu__align-right elementor-nav-menu--indicator-plus elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-widget-mobile__width-initial elementor-nav-menu--dropdown-tablet elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="6d801d1" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"><ul id="menu-1-6d801d1" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-451"><a href="https://hostingninja.com/best-web-hosting" class="elementor-item">Best Web Hosting</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-450"><a class="elementor-item">Compare Hosting</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-927"><a href="https://hostingninja.com/cheap-web-hosting/" class="elementor-sub-item">Best Cheap Web Hosting</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-952"><a href="https://hostingninja.com/free-web-hosting/" class="elementor-sub-item">Best Free Web Hosting</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-954"><a href="https://hostingninja.com/best-vps-hosting/" class="elementor-sub-item">Best VPS Web Hosting</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-955"><a href="https://hostingninja.com/wordpress-hosting/" class="elementor-sub-item">Best WordPress Hosting</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-619"><a class="elementor-item">Reviews</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-973"><a href="https://hostingninja.com/hosting-reviews/siteground/" class="elementor-sub-item">SiteGround Review</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-974"><a href="https://hostingninja.com/hosting-reviews/hostinger/" class="elementor-sub-item">Hostinger Review</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-970"><a href="https://hostingninja.com/hosting-reviews/ipage/" class="elementor-sub-item">iPage Review</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-971"><a href="https://hostingninja.com/hosting-reviews/bluehost/" class="elementor-sub-item">BlueHost Review</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-972"><a href="https://hostingninja.com/hosting-reviews/a2hosting/" class="elementor-sub-item">A2 Hosting Review</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-953"><a href="https://hostingninja.com/website-builders/" class="elementor-item">Website Builders</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-617"><a href="https://hostingninja.com/blog" class="elementor-item">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-671"><a href="https://hostingninja.com/about-us/" class="elementor-item">About Us</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-6d801d1" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-451"><a href="https://hostingninja.com/best-web-hosting" class="elementor-item">Best Web Hosting</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-450"><a class="elementor-item">Compare Hosting</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-927"><a href="https://hostingninja.com/cheap-web-hosting/" class="elementor-sub-item">Best Cheap Web Hosting</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-952"><a href="https://hostingninja.com/free-web-hosting/" class="elementor-sub-item">Best Free Web Hosting</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-954"><a href="https://hostingninja.com/best-vps-hosting/" class="elementor-sub-item">Best VPS Web Hosting</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-955"><a href="https://hostingninja.com/wordpress-hosting/" class="elementor-sub-item">Best WordPress Hosting</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-619"><a class="elementor-item">Reviews</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-973"><a href="https://hostingninja.com/hosting-reviews/siteground/" class="elementor-sub-item">SiteGround Review</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-974"><a href="https://hostingninja.com/hosting-reviews/hostinger/" class="elementor-sub-item">Hostinger Review</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-970"><a href="https://hostingninja.com/hosting-reviews/ipage/" class="elementor-sub-item">iPage Review</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-971"><a href="https://hostingninja.com/hosting-reviews/bluehost/" class="elementor-sub-item">BlueHost Review</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-972"><a href="https://hostingninja.com/hosting-reviews/a2hosting/" class="elementor-sub-item">A2 Hosting Review</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-953"><a href="https://hostingninja.com/website-builders/" class="elementor-item">Website Builders</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-617"><a href="https://hostingninja.com/blog" class="elementor-item">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-671"><a href="https://hostingninja.com/about-us/" class="elementor-item">About Us</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7803758" data-id="7803758" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-43d41ea elementor-widget__width-auto elementor-widget-mobile__width-initial ee-search-form-toggle-effect--slide-down ee-grid-columns-3 ee-grid-columns-tablet-2 ee-grid-columns-mobile-1 elementor-widget elementor-widget-ee-search-form" data-id="43d41ea" data-element_type="widget" data-settings="{&quot;columns&quot;:&quot;3&quot;,&quot;columns_tablet&quot;:&quot;2&quot;,&quot;columns_mobile&quot;:&quot;1&quot;}" data-widget_type="ee-search-form.fullscreen">
+				<div class="elementor-widget-container">
+			<form class="ee-form ee-search-form ee-search-form-skin--fullscreen" role="search" action="https://hostingninja.com" method="get" value="">
+			<input type="hidden" class="ee-form__field__control--search" name="category" value="none" /><input type="hidden" class="ee-form__field__control--search" name="post_tag" value="none" /><input type="hidden" class="ee-form__field__control--sent" name="ee_search_query" value="" /><div class="ee-search-form__overlay"><div class="ee-search-form__container"><div class="ee-form__fields ee-search-form__fields">
+			<div class="ee-form__field ee-form__field--input ee-form__field--search ee-search-form__field">
+			<input placeholder="What are you looking for?" class="ee-search-form__input ee-form__field__control ee-form__field__control--search ee-form__field__control--text ee-form__field__control--sent ee-form__field__control--input" type="search" name="s" title="Search" value="">
+		</div>		</div></div><div class="ee-search-form__filters ee-grid"><div class="ee-grid__item ee-search-form__filters-category ee-search-form__filters__category ee-search-form__filters__category--select"><div class="ee-search-form__filters-category__title">
+			Categories		</div><div class="ee-form__field ee-form__field--select ee-search-form__field ee-custom">
+			<select name="category" id="ee_filter_category_43d41ea" class="ee-search-form__filters-category__filter ee-form__field__control ee-form__field__control--search ee-form__field__control--select ee-form__field__control--text">			
+		<option value="">
+			All Categories		</option>					
+		<option value="blog">
+			Blog		</option>					
+		<option value="hosting-comparisons">
+			Hosting Comparisons		</option>					
+		<option value="hosting-reviews">
+			Hosting Reviews		</option>		</select>
+			<label for="filters.category.select" class="ee-form__field__label"></label>
+		</div></div><div class="ee-grid__item ee-search-form__filters-category ee-search-form__filters__category ee-search-form__filters__category--select"><div class="ee-search-form__filters-category__title">
+			Tags		</div><div class="ee-form__field ee-form__field--select ee-search-form__field ee-custom">
+			<select name="post_tag" id="ee_filter_post_tag_43d41ea" class="ee-search-form__filters-category__filter ee-form__field__control ee-form__field__control--search ee-form__field__control--select ee-form__field__control--text">			
+		<option value="">
+			All Tags		</option>					
+		<option value="blog">
+			blog		</option>		</select>
+			<label for="filters.post_tag.select" class="ee-form__field__label"></label>
+		</div></div></div></div><button class="ee-search-form__submit ee-form__field__control ee-form__field__control--submit ee-form__field__control--text ee-form__field__control--sent ee-form__field__control--button ee-search-form__control--icon" type="submit">
+			<i class="ee-search-form__icon nicon nicon-search-thick" aria-hidden="true"></i>		</button></form>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d23eddd elementor-widget__width-auto elementor-widget-mobile__width-initial elementor-hidden-phone elementor-widget elementor-widget-button" data-id="d23eddd" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text"></span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+		
+	
+	
+	<div id="content" class="site-content">
+
+		<div class="ast-container">
+
+				<div data-elementor-type="wp-page" data-elementor-id="9" class="elementor elementor-9" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-0a595d0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0a595d0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1b0ccde" data-id="1b0ccde" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b0f0045 elementor-widget elementor-widget-heading" data-id="b0f0045" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Finding the best web hosting company  can be more than a challenge...</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b46f32a elementor-widget elementor-widget-text-editor" data-id="b46f32a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Using real live data that we have personally analysed and tested, we have put together and <a href="https://hostingninja.com/best-web-hosting">compared the best web hosting</a> so you don’t have to.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c4a7b32 elementor-align-left elementor-widget__width-auto elementor-mobile-align-left elementor-widget-mobile__width-initial elementor-widget elementor-widget-button" data-id="c4a7b32" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://hostingninja.com/best-web-hosting" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">2020's Best Web Hosting Services</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e29f659 elementor-hidden-phone" data-id="e29f659" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3744d0d elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image" data-id="3744d0d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://hostingninja.com/wp-content/uploads/2020/04/undraw_searching_p5ux.svg" class="attachment-full size-full" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f45145a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f45145a" data-element_type="section" id="time">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8473ac9" data-id="8473ac9" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d824e35 elementor-widget elementor-widget-heading" data-id="d824e35" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Honest hosting Reviews using real Data</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b518933 elementor-widget elementor-widget-text-editor" data-id="b518933" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>For the past 15+ years, we’ve got our hands dirty in the web hosting market. We believe it’s important to provide our readers with real-life reviews, covering the good, the bad, <em>and </em>the ugly. Let me be honest with you here, we are <em>unbiased </em>and we’re not afraid to shout about it.</p><p>We’ve signed up for each web hosting service listed on our website and created a <a href="https://hostingninja.com/wordpress-hosting/">fresh WordPress site for each one of them</a>. We continually monitor uptime, load time, and performance, then check each of their features and pricing.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-33142e6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="33142e6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-fbd9df5" data-id="fbd9df5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-8614c41 elementor-widget-tablet__width-auto elementor-widget elementor-widget-image" data-id="8614c41" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://hostingninja.com/wp-content/uploads/2020/04/undraw_online_test.svg" class="elementor-animation-float attachment-full size-full" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ecdcbf0 elementor-widget elementor-widget-heading" data-id="ecdcbf0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Web Hosting Comparisons</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e443320 elementor-align-center elementor-widget elementor-widget-button" data-id="e443320" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://hostingninja.com/./hosting-comparisons/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">see posts +</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-0e4c568" data-id="0e4c568" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b030f3e elementor-widget elementor-widget-image" data-id="b030f3e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://hostingninja.com/wp-content/uploads/2020/04/undraw_like_dislike-1.svg" class="elementor-animation-float attachment-full size-full" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d376d63 elementor-widget elementor-widget-heading" data-id="d376d63" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Hosting Reviews</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3706ab4 elementor-align-center elementor-widget elementor-widget-button" data-id="3706ab4" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://hostingninja.com/./hosting-reviews/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">see posts +</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-b610b6f" data-id="b610b6f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-52d9ce0 elementor-widget-tablet__width-auto elementor-widget elementor-widget-image" data-id="52d9ce0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://hostingninja.com/wp-content/uploads/2020/04/undraw_dashboard.svg" class="elementor-animation-float attachment-full size-full" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5e254e9 elementor-widget elementor-widget-heading" data-id="5e254e9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Our Blog</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8d429df elementor-align-center elementor-widget elementor-widget-button" data-id="8d429df" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://hostingninja.com/./blog/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">see posts +</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c99e42a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c99e42a" data-element_type="section" id="posts">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9eb841c" data-id="9eb841c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d65e9ee ee-posts-thumbnail-ratio ee-posts-align-middle ee-media-effect__content--fade-from-bottom ee-filters-align-left ee-grid-columns-tablet-3 ee-filters-align-tablet-center ee-filters-align-mobile-center ee-grid-columns-3 ee-grid-columns-mobile-1 ee-posts-avatar-position-left elementor-widget elementor-widget-posts-extra" data-id="d65e9ee" data-element_type="widget" data-settings="{&quot;classic_grid_columns_spacing&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:40,&quot;sizes&quot;:[]},&quot;classic_filters&quot;:&quot;yes&quot;,&quot;columns_tablet&quot;:&quot;3&quot;,&quot;classic_grid_columns_spacing_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;columns&quot;:&quot;3&quot;,&quot;columns_mobile&quot;:&quot;1&quot;,&quot;classic_layout&quot;:&quot;default&quot;,&quot;classic_grid_columns_spacing_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]}}" data-widget_type="posts-extra.classic">
+				<div class="elementor-widget-container">
+			<ul class="ee-filters ee-filters--category">
+
+						<li class="ee-filters__item o-nav__item"><a data-filter="*">
+				All			</a></li>
+			
+			<li class="ee-filters__item o-nav__item ee-term ee-term--blog">
+					<a data-filter=".ee-filter-6" class="ee-term__link ee--active">
+						Blog											</a>
+				</li>
+					</ul><div class="ee-grid ee-loop ee-grid--default"><div class="ee-grid__item--sizer"></div><div class="ee-grid__item ee-loop__item ee-filter-6"><article class="ee-post post-1065 post type-post status-publish format-standard has-post-thumbnail hentry category-blog tag-blog ast-article-single"><a class="ee-media ee-post__media ee-post__media--content" href="https://hostingninja.com/blog/remote-working-statistics/"><div class="ee-post__media__thumbnail ee-media__thumbnail"><img width="2560" height="1865" src="https://i1.wp.com/hostingninja.com/wp-content/uploads/2020/05/remote-working-statistics-scaled.jpg?w=600&amp;ssl=1" class="attachment-full size-full" alt="" loading="lazy" /></div><div class="ee-post__media__overlay ee-media__overlay"></div><div class="ee-media__content ee-post__media__content ee-post__area"><div class="ee-post__read-more">
+			<div class="ee-post__button">
+				Read more +			</div>
+		</div></div><!-- .ee-post__media__content --></a><!-- .ee-post__media --><div class="ee-post__body ee-post__area">		<ul class="ee-post__terms">
+
+						<li class="ee-post__terms__term ee-post__terms__term--prefix">
+				# 			</li>
+			
+			
+				<li class="ee-post__terms__term ee-term ee-term--blog">
+					<a class="ee-post__terms__link ee-term__link" href="https://hostingninja.com/./blog/">
+						Blog					</a><span class="ee-post__terms__separator">,</span>				</li>
+
+					</ul>
+		<a href="https://hostingninja.com/blog/remote-working-statistics/" class="ee-post__title">
+			<h2 class="ee-post__title__heading">46+ Remote Working Statistics in 2020</h2>
+		</a></div><!-- .ee-post__body --><div class="ee-post__footer ee-post__area"><div class="ee-post__metas ee-post__metas--has-metas"><ul class="ee-post__metas__list display--"><li class="ee-post__meta ee-post__meta--author">
+							by Laura Hemmington<span class="ee-post__meta__separator">·</span>					</li>
+		<li class="ee-post__meta ee-post__meta--date ee-post__metas__date">last updated May 2020<span class="ee-post__meta__separator">·</span></li></ul></div></div><!-- .ee-post__footer --></article><!-- .ee-post --></div><!-- .ee-loop__item --><div class="ee-grid__item ee-loop__item ee-filter-6"><article class="ee-post post-647 post type-post status-publish format-standard has-post-thumbnail hentry category-blog ast-article-single"><a class="ee-media ee-post__media ee-post__media--content" href="https://hostingninja.com/blog/how-to-backup-wordpress/"><div class="ee-post__media__thumbnail ee-media__thumbnail"><img width="2560" height="1728" src="https://i0.wp.com/hostingninja.com/wp-content/uploads/2020/05/backup-wordpress-1-scaled-e1593703325230.jpg?fit=2560%2C1728&amp;ssl=1" class="attachment-full size-full" alt="" loading="lazy" /></div><div class="ee-post__media__overlay ee-media__overlay"></div><div class="ee-media__content ee-post__media__content ee-post__area"><div class="ee-post__read-more">
+			<div class="ee-post__button">
+				Read more +			</div>
+		</div></div><!-- .ee-post__media__content --></a><!-- .ee-post__media --><div class="ee-post__body ee-post__area">		<ul class="ee-post__terms">
+
+						<li class="ee-post__terms__term ee-post__terms__term--prefix">
+				# 			</li>
+			
+			
+				<li class="ee-post__terms__term ee-term ee-term--blog">
+					<a class="ee-post__terms__link ee-term__link" href="https://hostingninja.com/./blog/">
+						Blog					</a><span class="ee-post__terms__separator">,</span>				</li>
+
+					</ul>
+		<a href="https://hostingninja.com/blog/how-to-backup-wordpress/" class="ee-post__title">
+			<h2 class="ee-post__title__heading">How to Backup WordPress</h2>
+		</a></div><!-- .ee-post__body --><div class="ee-post__footer ee-post__area"><div class="ee-post__metas ee-post__metas--has-metas"><ul class="ee-post__metas__list display--"><li class="ee-post__meta ee-post__meta--author">
+							by Laura Hemmington<span class="ee-post__meta__separator">·</span>					</li>
+		<li class="ee-post__meta ee-post__meta--date ee-post__metas__date">last updated May 2020<span class="ee-post__meta__separator">·</span></li></ul></div></div><!-- .ee-post__footer --></article><!-- .ee-post --></div><!-- .ee-loop__item --><div class="ee-grid__item ee-loop__item ee-filter-6"><article class="ee-post post-38 post type-post status-publish format-standard has-post-thumbnail hentry category-blog tag-blog ast-article-single"><a class="ee-media ee-post__media ee-post__media--content" href="https://hostingninja.com/blog/remote-working/"><div class="ee-post__media__thumbnail ee-media__thumbnail"><img width="2560" height="1865" src="https://i0.wp.com/hostingninja.com/wp-content/uploads/2020/04/remote-working-scaled.jpg?w=600&amp;ssl=1" class="attachment-full size-full" alt="" loading="lazy" /></div><div class="ee-post__media__overlay ee-media__overlay"></div><div class="ee-media__content ee-post__media__content ee-post__area"><div class="ee-post__read-more">
+			<div class="ee-post__button">
+				Read more +			</div>
+		</div></div><!-- .ee-post__media__content --></a><!-- .ee-post__media --><div class="ee-post__body ee-post__area">		<ul class="ee-post__terms">
+
+						<li class="ee-post__terms__term ee-post__terms__term--prefix">
+				# 			</li>
+			
+			
+				<li class="ee-post__terms__term ee-term ee-term--blog">
+					<a class="ee-post__terms__link ee-term__link" href="https://hostingninja.com/./blog/">
+						Blog					</a><span class="ee-post__terms__separator">,</span>				</li>
+
+					</ul>
+		<a href="https://hostingninja.com/blog/remote-working/" class="ee-post__title">
+			<h2 class="ee-post__title__heading">Benefits of Remote Working in 2020</h2>
+		</a></div><!-- .ee-post__body --><div class="ee-post__footer ee-post__area"><div class="ee-post__metas ee-post__metas--has-metas"><ul class="ee-post__metas__list display--"><li class="ee-post__meta ee-post__meta--author">
+							by Laura Hemmington<span class="ee-post__meta__separator">·</span>					</li>
+		<li class="ee-post__meta ee-post__meta--date ee-post__metas__date">last updated April 2020<span class="ee-post__meta__separator">·</span></li></ul></div></div><!-- .ee-post__footer --></article><!-- .ee-post --></div><!-- .ee-loop__item --></div><!-- .ee-loop -->		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-736531a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="736531a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9a25046" data-id="9a25046" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-650e47d elementor-widget elementor-widget-text-editor" data-id="650e47d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><div class="section-heading"><span class="home-page-donations-content">Our two core values, honesty and transparency, make the Internet a better place. When readers choose to buy a service, we sometimes earn affiliate commissions that support our work and on-going costs to maintain our site. </span></div></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+					
+			</div> <!-- ast-container -->
+
+		</div><!-- #content -->
+
+		
+		
+				<div data-elementor-type="footer" data-elementor-id="165" class="elementor elementor-165 elementor-location-footer" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-0ffbddd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0ffbddd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d53df4a" data-id="d53df4a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-890530a elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image" data-id="890530a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://hostingninja.com">
+							<img src="https://hostingninja.com/wp-content/uploads/2020/04/hostingninja_logo_white.svg" class="attachment-full size-full" alt="" loading="lazy" />								</a>
+											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-57cabe7 elementor-widget-tablet__width-initial elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="57cabe7" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-0267196" href="https://www.facebook.com/Hosting-Ninja-112011087243598" target="_blank">
+						<span class="elementor-screen-only">Facebook-f</span>
+						<i class="fab fa-facebook-f"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-dc10550" href="https://twitter.com/hostingninja1?fbclid=IwAR09jmuTCciTuFV3-vkGlmZQx6FYQSbNDa9_PXJlZrraxCX2tuwyV34f2oc" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i class="fab fa-twitter"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-dbaeb71" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i class="fab fa-youtube"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-82cb3f4" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3d5ba84" data-id="3d5ba84" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-08ecd67 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="08ecd67" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-db9c9dd" data-id="db9c9dd" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1e2c3b9 elementor-widget elementor-widget-heading" data-id="1e2c3b9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Web Hosting Reviews:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-51e2c52 elementor-grid-1 elementor-posts--thumbnail-none elementor-grid-tablet-1 elementor-grid-mobile-1 elementor-widget elementor-widget-posts" data-id="51e2c52" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;1&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;classic_columns_tablet&quot;:&quot;1&quot;,&quot;classic_columns_mobile&quot;:&quot;1&quot;}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+					<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1081 post type-post status-publish format-standard has-post-thumbnail hentry category-hosting-reviews">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hostingninja.com/hosting-reviews/000webhost/" >
+				000WebHost Review			</a>
+		</h3>
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-711 post type-post status-publish format-standard has-post-thumbnail hentry category-hosting-reviews">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hostingninja.com/hosting-reviews/bluehost/" >
+				BlueHost Review			</a>
+		</h3>
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-727 post type-post status-publish format-standard has-post-thumbnail hentry category-hosting-reviews">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hostingninja.com/hosting-reviews/ipage/" >
+				iPage Review			</a>
+		</h3>
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-739 post type-post status-publish format-standard has-post-thumbnail hentry category-hosting-reviews">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hostingninja.com/hosting-reviews/a2hosting/" >
+				A2 Hosting Review			</a>
+		</h3>
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-627 post type-post status-publish format-standard has-post-thumbnail hentry category-hosting-reviews">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hostingninja.com/hosting-reviews/siteground/" >
+				SiteGround Review			</a>
+		</h3>
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-685 post type-post status-publish format-standard has-post-thumbnail hentry category-hosting-reviews">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hostingninja.com/hosting-reviews/hostinger/" >
+				Hostinger Review			</a>
+		</h3>
+				</div>
+				</article>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-9a5589a" data-id="9a5589a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-91ec16b elementor-widget elementor-widget-heading" data-id="91ec16b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Latest Blog Posts:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-65b14ed elementor-grid-1 elementor-posts--thumbnail-none elementor-grid-tablet-1 elementor-grid-mobile-1 elementor-widget elementor-widget-posts" data-id="65b14ed" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;1&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;classic_columns_tablet&quot;:&quot;1&quot;,&quot;classic_columns_mobile&quot;:&quot;1&quot;}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+					<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1702 post type-post status-publish format-standard has-post-thumbnail hentry category-blog tag-blog">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hostingninja.com/blog/wordpress-guide/" >
+				How To Use WordPress In 2020 | 4-Step Beginners Guide			</a>
+		</h3>
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1622 post type-post status-publish format-standard hentry category-blog tag-blog">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hostingninja.com/blog/why-use-a-cdn/" >
+				6+ Reasons Why You Should Use a CDN			</a>
+		</h3>
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1589 post type-post status-publish format-standard hentry category-blog tag-blog">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hostingninja.com/blog/cybersecurity-statistics-2020/" >
+				52+ Scary Hacking and Cybersecurity Statistics You Need To Know for 2020			</a>
+		</h3>
+				</div>
+				</article>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-25e537a" data-id="25e537a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f173a96 elementor-widget elementor-widget-heading" data-id="f173a96" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Information:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3bb949d elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3bb949d" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="https://hostingninja.com/privacy-policy/">					<span class="elementor-icon-list-text">Privacy Policy</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://hostingninja.com/terms-of-service/">					<span class="elementor-icon-list-text">Terms of Use</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9892157" data-id="9892157" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c363323 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="c363323" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-form" method="post" name="New Form">
+			<input type="hidden" name="post_id" value="165"/>
+			<input type="hidden" name="form_id" value="c363323"/>
+
+							<input type="hidden" name="queried_id" value="9"/>
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">
+					<label for="form-field-name" class="elementor-field-label elementor-screen-only">Name</label><input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name">				</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
+					<label for="form-field-email" class="elementor-field-label elementor-screen-only">Email</label><input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
+					<label for="form-field-message" class="elementor-field-label elementor-screen-only">Message</label><textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Message"></textarea>				</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+					<button type="submit" class="elementor-button elementor-size-sm">
+						<span >
+															<span class=" elementor-button-icon">
+																										</span>
+																						<span class="elementor-button-text">Send</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<footer class="elementor-section elementor-top-section elementor-element elementor-element-6a82130d elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="6a82130d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-644c1f8b" data-id="644c1f8b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d1b2031 elementor-widget elementor-widget-heading" data-id="d1b2031" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">2020 © All rights reserved</h3>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5c74b695" data-id="5c74b695" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2686a67 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="2686a67" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Powered by </h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-59b74f7 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="59b74f7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://www.pingdom.com/" target="_blank">
+							<img src="https://hostingninja.com/wp-content/uploads/2020/04/pingdom.svg" class="attachment-full size-full" alt="" loading="lazy" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</footer>
+				</div>
+		</div>
+		
+		
+	</div><!-- #page -->
+
+	
+	<link rel='stylesheet' id='elementor-select2-css'  href='https://hostingninja.com/wp-content/plugins/elementor/assets/lib/e-select2/css/e-select2.min.css?ver=4.0.6-rc.1' media='all' />
+<script id='astra-theme-js-js-extra'>
+var astra = {"break_point":"921","isRtl":""};
+</script>
+<script src='https://hostingninja.com/wp-content/themes/astra/assets/js/minified/style.min.js?ver=2.4.3' id='astra-theme-js-js'></script>
+<script src='https://hostingninja.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001' id='jetpack-photon-js'></script>
+<script id='site-reviews-js-before'>
+window.hasOwnProperty("GLSR")||(window.GLSR={});GLSR.action="glsr_action";GLSR.ajaxpagination=["#wpadminbar",".site-navigation-fixed"];GLSR.ajaxurl="https://hostingninja.com/wp-admin/admin-ajax.php";GLSR.nameprefix="site-reviews";GLSR.urlparameter=true;GLSR.validationconfig={field:"glsr-field",form:"glsr-form",field_error:"glsr-field-is-invalid",field_message:"glsr-field-error",field_required:"glsr-required",field_valid:"glsr-field-is-valid",form_error:"glsr-form-is-invalid",form_message:"glsr-form-message",form_message_failed:"glsr-form-failed",form_message_success:"glsr-form-success",input_error:"glsr-is-invalid",input_valid:"glsr-is-valid"};GLSR.validationstrings={accepted:"This field must be accepted.",between:"This field value must be between %s and %s.",betweenlength:"This field must have between %s and %s characters.",email:"This field requires a valid e-mail address.",errors:"Please fix the submission errors.",max:"Maximum value for this field is %s.",maxlength:"This field allows a maximum of %s characters.",min:"Minimum value for this field is %s.",minlength:"This field requires a minimum of %s characters.",number:"This field requires a number.",required:"This field is required.",unsupported:"The review could not be submitted because this browser is too old. Please try again with a modern browser."};
+</script>
+<script src='https://hostingninja.com/wp-content/plugins/site-reviews/assets/scripts/site-reviews.js?ver=5.1.6' id='site-reviews-js'></script>
+<script id='site-reviews-js-after'>
+"undefined"!==typeof jQuery&&jQuery(document).on("elementor/popup/show",function(){new GLSR.Forms()})
+</script>
+<script src='https://hostingninja.com/wp-includes/js/wp-embed.min.js?ver=5.5.3' id='wp-embed-js'></script>
+<script src='https://hostingninja.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1' id='smartmenus-js'></script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor/assets/lib/e-select2/js/e-select2.full.min.js?ver=4.0.6-rc.1' id='jquery-elementor-select2-js'></script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor-extras/assets/lib/jquery-resize/jquery.resize.min.js?ver=3.0.2' id='jquery-resize-ee-js'></script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor-extras/assets/lib/infinite-scroll/infinite-scroll.pkgd.min.js?ver=3.0.2' id='infinite-scroll-ee-js'></script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor-extras/assets/lib/isotope/isotope.pkgd.min.js?ver=3.0.4' id='isotope-js'></script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor-extras/assets/lib/filtery/filtery.min.js?ver=1.0.0' id='filtery-js'></script>
+<script src='https://hostingninja.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.12' id='elementor-frontend-modules-js'></script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.3' id='elementor-sticky-js'></script>
+<script id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/hostingninja.com\/wp-admin\/admin-ajax.php","nonce":"811e757900","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"weixin":{"title":"WeChat"},"weibo":{"title":"Weibo"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/hostingninja.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.3' id='elementor-pro-frontend-js'></script>
+<script src='https://hostingninja.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.12' id='share-link-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.12","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/hostingninja.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":9,"title":"HostingNinja.com%20-%20Everything%20Web%20Hosting%20in%202020%20%26%20More%21","excerpt":"","featuredImage":false}};
+</script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.12' id='elementor-frontend-js'></script>
+<script src='//cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js' id='gsap-js-js'></script>
+<script id='elementor-extras-frontend-js-extra'>
+var elementorExtrasFrontendConfig = {"urls":{"assets":"https:\/\/hostingninja.com\/wp-content\/plugins\/elementor-extras\/assets\/"},"refreshableWidgets":["ee-offcanvas.classic","ee-popup.classic","gallery-slider.default","media-carousel.default","image-carousel.default","slides.default"]};
+</script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor-extras/assets/js/frontend.min.js?ver=2.2.37' id='elementor-extras-frontend-js'></script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor-extras/assets/lib/parallax-gallery/parallax-gallery.min.js?ver=1.0.0' id='parallax-gallery-js'></script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor-extras/assets/lib/hc-sticky/hc-sticky.min.js?ver=2.2.3' id='hc-sticky-js'></script>
+<script src='https://hostingninja.com/wp-content/plugins/elementor-extras/assets/lib/hotips/hotips.min.js?ver=1.1.0' id='hotips-js'></script>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+			
+	</body>
+</html>
